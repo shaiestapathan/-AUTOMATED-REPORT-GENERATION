@@ -63,6 +63,7 @@ Understood how to build a complete end-to-end solution that reads data, analyzes
 This task enhanced practical knowledge in automated report generation, a useful skill in fields like education, HR, finance, and data analysis. It showed how Python can be used to turn raw data into meaningful reports that are both informative and presentable.
 
 OUTPUT:
+
 ![Image](https://github.com/user-attachments/assets/58e19952-7511-48f5-978f-80cd5e0e6dda)
 
 ![Image](https://github.com/user-attachments/assets/adf455d8-78f8-438e-a53e-ed1a2def2590)
